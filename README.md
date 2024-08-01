@@ -1,7 +1,5 @@
 # NLP
-Sure, here's a LinkedIn post for your project:
-
----
+## **Twitter Sentiment Analysis**
 
 🚀 **Excited to Share My Latest Project on Twitter Sentiment Analysis!** 🚀
 
